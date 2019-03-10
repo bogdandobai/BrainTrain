@@ -1,0 +1,14 @@
+c:\users\bogdan\source\repos\Brain Train\Brain Train\bin\Debug\Brain Train.exe.config
+c:\users\bogdan\source\repos\Brain Train\Brain Train\bin\Debug\Brain Train.exe
+c:\users\bogdan\source\repos\Brain Train\Brain Train\bin\Debug\Brain Train.pdb
+c:\users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain_Train.Properties.Resources.resources
+c:\users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain Train.csproj.GenerateResource.cache
+c:\users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain Train.csproj.CoreCompileInputs.cache
+c:\users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain Train.exe
+c:\users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain Train.pdb
+c:\users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain_Train.Form1.resources
+c:\users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain Train.csprojAssemblyReference.cache
+C:\Users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain_Train.AttentionGame.resources
+C:\Users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain_Train.MemoryGame.resources
+C:\Users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain_Train.VocabularyGame.resources
+C:\Users\bogdan\source\repos\Brain Train\Brain Train\obj\Debug\Brain_Train.Informations.resources
